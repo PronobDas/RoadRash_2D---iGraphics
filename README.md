@@ -5,5 +5,6 @@ other 9 bikers. You have to go through a busy road with a lot of traffics. If yo
 and your position in the road will be changed to the middle of the road again. So, avoid collisions and secure the first place!
 
 In this project, the backend was written in C and the UI was built by a custom C grahpics libray named iGrahpics.
+
 Download the repository. Copy the required files to your minGW directory's include and lib folder. 
 Open "MyIGraphics.cbp" or open the folder as a cpp project and run.
